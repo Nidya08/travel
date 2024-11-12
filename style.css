@@ -1,0 +1,30 @@
+.overlay{
+    opacity: 80%;
+    margin-top: -550px;
+    width: 600px;
+    margin-left: 100px;
+    padding: 20px;
+}
+.overlay h1{
+    font-size: 70px;
+    font-family: "Rubik Mono One", monospace;
+    font-weight: bolder;
+    opacity: 100%;
+}
+.overlay p{
+    font-size: 25px;
+    color: white;
+}
+.overlay2{
+    margin-top: -250px;
+}
+.overlay2 h1{
+    color: rgb(6, 6, 95);
+}
+.over{
+    height: 100px;
+    width: 500px;
+}
+.col{
+    margin: 0px;
+}
